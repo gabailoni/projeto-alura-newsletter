@@ -38,17 +38,17 @@ Bem vindo ao Projeto de Newsletter utilizando o Tailwind CSS, classes utilitári
   + https://tailwindcss.com/docs/theme
   + https://tailwindcss.com/docs/customizing-colors
   + https://tailwindcss.com/docs/box-sizing
-  + tps://tailwindcss.com/docs/display
-  + tps://tailwindcss.com/docs/position
-  + tps://tailwindcss.com/docs/gap
-  + tps://tailwindcss.com/docs/padding
-  + tps://tailwindcss.com/docs/margin
-  + tps://tailwindcss.com/docs/width
-  + tps://tailwindcss.com/docs/height
-  + tps://tailwindcss.com/docs/border-radius
-  + tps://tailwindcss.com/docs/box-shadow
-  + tps://tailwindcss.com/docs/animation
-  + tps://tailwindcss.com/docs/transition-duration
-  + tps://tailwindcss.com/docs/fill
-  + tps://tailwindcss.com/docs/stroke
+  + https://tailwindcss.com/docs/display
+  + https://tailwindcss.com/docs/position
+  + https://tailwindcss.com/docs/gap
+  + https://tailwindcss.com/docs/padding
+  + https://tailwindcss.com/docs/margin
+  + https://tailwindcss.com/docs/width
+  + https://tailwindcss.com/docs/height
+  + https://tailwindcss.com/docs/border-radius
+  + https://tailwindcss.com/docs/box-shadow
+  + https://tailwindcss.com/docs/animation
+  + https://tailwindcss.com/docs/transition-duration
+  + https://tailwindcss.com/docs/fill
+  + https://tailwindcss.com/docs/stroke
 
