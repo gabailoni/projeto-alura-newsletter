@@ -3,7 +3,7 @@
 Bem vindo ao Projeto de Newsletter utilizando o Tailwind CSS, classes utilitárias dentro do HTML. Esse é um projeto desenvovido pela Alura, onde sou aluna, voltado para Front-end, trabalhando Frameworks para o dia a dia de um DEV.
 
     Inserindo o TailwindCSS no arquivo HTML:
-
+'''
 <!doctype html>
 <html>
 <head>
@@ -17,9 +17,9 @@ Bem vindo ao Projeto de Newsletter utilizando o Tailwind CSS, classes utilitári
   </h1>
 </body>
 </html>
-
+'''
 É importante ressaltar que deve ser inserido no head e após, devemos abrir um novo script para customizar cores, fontes, animações(...) que utilizaremos no projeto!
-
+'''
 <script>
     tailwind.config = {
       theme: {
@@ -31,6 +31,7 @@ Bem vindo ao Projeto de Newsletter utilizando o Tailwind CSS, classes utilitári
       }
     }
   </script>
+  '''
   
     Links que valem leitura e aprofundamento:
   
