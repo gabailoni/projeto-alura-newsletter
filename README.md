@@ -34,10 +34,10 @@ Bem vindo ao Projeto de Newsletter utilizando o Tailwind CSS, classes utilitári
   
     Links que valem leitura e aprofundamento:
   
-  https://tailwindcss.com/docs/configuration
-  https://tailwindcss.com/docs/theme
-  https://tailwindcss.com/docs/customizing-colors
-  https://tailwindcss.com/docs/box-sizing
+  + https://tailwindcss.com/docs/configuration
+  + https://tailwindcss.com/docs/theme
+  + https://tailwindcss.com/docs/customizing-colors
+  + https://tailwindcss.com/docs/box-sizing
   https://tailwindcss.com/docs/display
   https://tailwindcss.com/docs/position
   https://tailwindcss.com/docs/gap
