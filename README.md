@@ -11,12 +11,7 @@ Bem vindo ao Projeto de Newsletter utilizando o Tailwind CSS, classes utilitári
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body>
-  <h1 class="text-3xl font-bold underline">
-    Hello world!
-  </h1>
-</body>
-</html>
+
 ```
 É importante ressaltar que deve ser inserido no head e após, devemos abrir um novo script para customizar cores, fontes, animações(...) que utilizaremos no projeto!
 ```
@@ -32,7 +27,14 @@ Bem vindo ao Projeto de Newsletter utilizando o Tailwind CSS, classes utilitári
     }
   </script>
   ```
-  
+  ```
+  <body>
+  <h1 class="text-3xl font-bold underline">
+    Hello world!
+  </h1>
+</body>
+</html>
+```
     Links que valem leitura e aprofundamento:
   
   + https://tailwindcss.com/docs/configuration
